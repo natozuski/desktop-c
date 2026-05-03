@@ -2,6 +2,10 @@
 
 desktop config
 
+# Using Command Line with Windows
+
+- add the program location to environment variables PATH
+
 # Working with the repo
 
 ### Windows
