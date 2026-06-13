@@ -6,7 +6,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 @Mod(
     modid = AetherBlockMod.MODID,
     name = "AetherBlock",
-    version = "1.0"
+    version = "1.0.1"
 )
 public class AetherBlockMod {
 

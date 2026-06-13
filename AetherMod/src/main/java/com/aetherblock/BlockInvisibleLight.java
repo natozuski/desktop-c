@@ -13,8 +13,5 @@ public class BlockInvisibleLight extends Block {
 
         setHardness(0.0F);
         setResistance(6000000.0F);
-
-        setUnlocalizedName("invisible_light");
-        setRegistryName("aetherblock", "invisible_light");
     }
 }
