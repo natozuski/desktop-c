@@ -129,18 +129,7 @@ class BlockInvisibleLight extends Block {
         setLightOpacity(0);
         
         setHardness(0.0F);
-        setResistance(6000000.0F);
-    }
-    
-    // Make the block invisible (no model rendering)
-    @Override
-    public boolean isFullCube(IBlockState state) {
-        return false;
-    }
-    
-    @Override
-    public boolean isOpaqueCube(IBlockState state) {
-        return false;
+        setResistance(0.0F);
     }
     
     // Make the block have no collision (can walk through)
