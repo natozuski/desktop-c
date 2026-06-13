@@ -1,5 +1,5 @@
 {
-  "parent": "aetherblock:block/aether_block",
+  "parent": "aetherblock:block/invisible_block",
   "display": {
     "thirdperson": {
       "rotation": [10, -45, 170],
