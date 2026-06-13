@@ -1,0 +1,16 @@
+[
+{
+  "modid": "atherblock",
+  "name": "AetherBlock",
+  "description": "Creates an Aether light field.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["-"],
+  "credits": "-",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
