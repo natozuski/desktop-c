@@ -1,16 +1,9 @@
 [
 {
-  "modid": "atherblock",
+  "modid": "aetherblock",
   "name": "AetherBlock",
-  "description": "Creates an Aether light field.",
+  "description": "Adds the Aether Block. When placed, it creates a sphere of invisible light around itself, illuminating a large area without any visible light sources. The light disappears when the block is broken.",
   "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["aaaa"],
-  "credits": "aaaa",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
+  "mcversion": "${mcversion}"
 }
 ]
